@@ -43142,9 +43142,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-1 {
-  font-size: 1rem;
   font-weight: 700;
-  letter-spacing: normal;
+  font-size: 1rem;
 }
 
 .u-header .u-nav-2 {
@@ -43179,6 +43178,10 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-menu-1 {
     margin-top: -39px;
     margin-bottom: 25px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 
@@ -43301,25 +43304,49 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-text-6 {
   font-size: 1rem;
   transition-duration: 0.5s;
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
   margin: 25px auto 0 0;
+}
+
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-footer .u-text-7 {
   font-size: 1rem;
   transition-duration: 0.5s;
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
   margin: 20px auto 0 0;
+}
+
+.u-footer .u-btn-2 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-footer .u-text-8 {
   font-size: 1rem;
   transition-duration: 0.5s;
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
   margin: 20px auto 0 0;
+}
+
+.u-footer .u-btn-3 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-footer .u-text-9 {
   font-size: 1rem;
   transition-duration: 0.5s;
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
   margin: 20px auto 0 0;
+}
+
+.u-footer .u-btn-4 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-footer .u-layout-cell-3 {
@@ -43393,7 +43420,7 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 52px;
 }
 
-.u-footer .u-btn-1 {
+.u-footer .u-btn-5 {
   background-image: none;
   padding: 13px 18px 14px 16px;
 }
@@ -43579,38 +43606,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 .u-footer .u-social-icons-1.u-social-icons-1.u-social-icons-1.hover {
     transform: scale(1.1) translateX(0px) translateY(0px) !important
-} .u-footer .u-text-6, .u-footer .u-text-6:before, .u-footer .u-text-6 > .u-container-layout:before {
-    transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
-}
-.u-footer .u-text-6.u-text-6.u-text-6:hover {
-    color: #ff5722 !important
-}
-.u-footer .u-text-6.u-text-6.u-text-6.hover {
-    color: #ff5722 !important
-} .u-footer .u-text-7, .u-footer .u-text-7:before, .u-footer .u-text-7 > .u-container-layout:before {
-    transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
-}
-.u-footer .u-text-7.u-text-7.u-text-7:hover {
-    color: #ff5722 !important
-}
-.u-footer .u-text-7.u-text-7.u-text-7.hover {
-    color: #ff5722 !important
-} .u-footer .u-text-8, .u-footer .u-text-8:before, .u-footer .u-text-8 > .u-container-layout:before {
-    transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
-}
-.u-footer .u-text-8.u-text-8.u-text-8:hover {
-    color: #ff5722 !important
-}
-.u-footer .u-text-8.u-text-8.u-text-8.hover {
-    color: #ff5722 !important
-} .u-footer .u-text-9, .u-footer .u-text-9:before, .u-footer .u-text-9 > .u-container-layout:before {
-    transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
-}
-.u-footer .u-text-9.u-text-9.u-text-9:hover {
-    color: #ff5722 !important
-}
-.u-footer .u-text-9.u-text-9.u-text-9.hover {
-    color: #ff5722 !important
 } .u-footer .u-text-11, .u-footer .u-text-11:before, .u-footer .u-text-11 > .u-container-layout:before {
     transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
 }
@@ -43642,6 +43637,46 @@ a.u-link.u-text-hover-grey-90:hover {
     color: #ff5722 !important
 }
 .u-footer .u-text-14.u-text-14.u-text-14.hover {
+    color: #ff5722 !important
+} .u-footer .u-text-6, .u-footer .u-text-6:before, .u-footer .u-text-6 > .u-container-layout:before {
+    transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
+}
+.u-footer .u-text-6.u-text-6.u-text-6:hover {
+    transform: translateX(10px) translateY(0px) !important;
+    color: #ff5722 !important
+}
+.u-footer .u-text-6.u-text-6.u-text-6.hover {
+    transform: translateX(10px) translateY(0px) !important;
+    color: #ff5722 !important
+} .u-footer .u-text-7, .u-footer .u-text-7:before, .u-footer .u-text-7 > .u-container-layout:before {
+    transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
+}
+.u-footer .u-text-7.u-text-7.u-text-7:hover {
+    transform: translateX(10px) translateY(0px) !important;
+    color: #ff5722 !important
+}
+.u-footer .u-text-7.u-text-7.u-text-7.hover {
+    transform: translateX(10px) translateY(0px) !important;
+    color: #ff5722 !important
+} .u-footer .u-text-8, .u-footer .u-text-8:before, .u-footer .u-text-8 > .u-container-layout:before {
+    transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
+}
+.u-footer .u-text-8.u-text-8.u-text-8:hover {
+    transform: translateX(10px) translateY(0px) !important;
+    color: #ff5722 !important
+}
+.u-footer .u-text-8.u-text-8.u-text-8.hover {
+    transform: translateX(10px) translateY(0px) !important;
+    color: #ff5722 !important
+} .u-footer .u-text-9, .u-footer .u-text-9:before, .u-footer .u-text-9 > .u-container-layout:before {
+    transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
+}
+.u-footer .u-text-9.u-text-9.u-text-9:hover {
+    transform: translateX(10px) translateY(0px) !important;
+    color: #ff5722 !important
+}
+.u-footer .u-text-9.u-text-9.u-text-9.hover {
+    transform: translateX(10px) translateY(0px) !important;
     color: #ff5722 !important
 } 
 
